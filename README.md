@@ -9,7 +9,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[Live Demo](#) · [Report a Bug](https://github.com/baibhavtibrewal/TAPSTORM/issues) · [Request a Feature](https://github.com/baibhavtibrewal/TAPSTORM/issues)
+[Report a Bug](https://github.com/baibhavtibrewal/TAPSTORM/issues) · [Request a Feature](https://github.com/baibhavtibrewal/TAPSTORM/issues)
 
 </div>
 
